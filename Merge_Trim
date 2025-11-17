@@ -1,3 +1,9 @@
+# Genotech license
+#!/usr/bin/env bash
+# GENOTECH - Bioinformatics Pipeline Tool
+# Copyright (c) 2025 [GENOTECH]
+# License: MIT Open Source License
+# GitHub: https://github.com/Mahmoudkam1997/Merge-Trim
 #!/usr/bin/env bash
 # bash
 # dna_toolkit.sh - Merge and trim reads with vsearch and Trimmomatic
@@ -242,4 +248,5 @@ case "$COMMAND" in
     usage
     exit 2
     ;;
+
 esac
